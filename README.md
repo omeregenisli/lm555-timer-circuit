@@ -2,8 +2,6 @@
 
 A hardware prototyping and circuit analysis project focused on configuring the versatile **LM555 timer IC** in **astable multivibrator mode** to generate continuous square wave pulses with real-time frequency modulation.
 
-Final project for **EED 1009 – Introduction to Tools for Electrical & Electronics Engineering**, Dokuz Eylül University.
-
 ---
 
 ## 🎥 Video Presentation & Hardware Demo
